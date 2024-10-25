@@ -23,7 +23,7 @@
 - Innovaciones tecnológicas
 
 ## 📫 How to reach me...
-- Correo: [Junior](sjhunior24@gmail.com)
+- Correo: [Junior]([sjhunior24@gmail.com](https://mail.google.com/mail/u/0/#search/sjhunior24%40gmail.com?compose=new))
 - [LinkedIn](https://www.linkedin.com/in/sergio-junior-risco-huaman-88425828a/)
 
 ## 😄 Pronouns: 
