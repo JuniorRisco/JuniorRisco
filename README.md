@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @JuniorRisco
 
-![Your Image](https://cdn.leonardo.ai/users/1904792d-6c47-4f2e-a2a8-1b6a6689d82e/generations/840dd0a0-1eb7-4bd8-9ed7-0a01367101bf/Default_Create_the_home_of_an_app_of_the_future_that_is_better_1.jpg)
+
 
 ## 👀 I’m interested in...
 - Desarrollo web
