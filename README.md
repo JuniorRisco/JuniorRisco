@@ -2,12 +2,10 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=007BFF&center=true&vCenter=true&lines=Hi%2C+I'm+%40JuniorRisco;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
 
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JuniorRisco.JuniorRisco)
-
   ## 👀 I’m interested in...
-  - 🚀 Desarrollo web
-  - 🤖 Inteligencia Artificial
-  - 💡 Proyectos de código abierto
+  Desarrollo web 🚀  
+  Inteligencia Artificial 🤖  
+  Proyectos de código abierto 💡  
 
   ## 🌱 I’m currently learning...
   <p align="center">
@@ -21,18 +19,18 @@
   </p>
 
   ## 💞️ I’m looking to collaborate on...
-  - 🎨 Proyectos de front-end  
-  - 📱 Aplicaciones móviles  
-  - 🚀 Innovaciones tecnológicas  
+  Proyectos de front-end 🎨  
+  Aplicaciones móviles 📱  
+  Innovaciones tecnológicas 🚀  
 
   ## 📫 How to reach me...
-  - 📧 **Correo:** [sjhunior24@gmail.com](mailto:sjhunior24@gmail.com)  
-  - 💼 **LinkedIn:** [Sergio Junior Risco Huaman](https://www.linkedin.com/in/sergio-junior-risco-huaman-88425828a/)  
+  📧 **Correo:** [sjhunior24@gmail.com](mailto:sjhunior24@gmail.com)  
+  💼 **LinkedIn:** [Sergio Junior Risco Huaman](https://www.linkedin.com/in/sergio-junior-risco-huaman-88425828a/)  
 
   ## 😄 Pronouns: 
-  - Él / Him  
+  Él / Him  
 
   ## ⚡ Fun fact:
-  - 🌍 ¡Me encanta viajar y aprender sobre nuevas culturas!
+  ¡Me encanta viajar y aprender sobre nuevas culturas! 🌍
 
 </div>
