@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2000&color=007BFF&lines=Hi%2C+I'm+%40JuniorRisco" alt="Typing animation" />
 
-
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 
 ## 👀 I’m interested in...
