@@ -25,7 +25,7 @@
 
   ## 📫 How to reach me...
   📧 **Correo:** [sjhunior24@gmail.com](mailto:sjhunior24@gmail.com)  
-  💼 **LinkedIn:** [Sergio Junior Risco Huaman](https://www.linkedin.com/in/sergio-junior-risco-huaman-88425828a/)  
+  💼 **LinkedIn:** [Junior Risco](https://www.linkedin.com/in/junior-risco-dev/)  
 
   ## 😄 Pronouns: 
   Él / Him  
